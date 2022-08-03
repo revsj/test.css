@@ -1,0 +1,16 @@
+body {
+    margin-left: 200px;
+    background: #5d9ab2 url("img_tree.png") no-repeat top left;
+  }
+  h1 {
+    color: violet;
+    }
+  .center_div {
+    border: 1px solid gray;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    background-color: #d0f0f6;
+    text-align: left;
+    padding: 8px;
+  }
