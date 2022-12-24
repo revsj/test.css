@@ -3,14 +3,14 @@ body {
     background: #5d9ab2 url("img_tree.png") no-repeat top left;
   }
   h1 {
-    color: violet;
+    color: red;
     }
   .center_div {
-    border: 1px solid gray;
+    border: 1px solid blue;
     margin-left: auto;
     margin-right: auto;
     width: 90%;
-    background-color: #d0f0f6;
+    background-color: yellow;
     text-align: left;
     padding: 8px;
   }
